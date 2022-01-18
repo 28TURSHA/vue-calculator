@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    
+  }
+  
+  button {
+    display: inline-block;
+    margin-top: 10px;
+    width: 75px;
+    height: 60px;
+    /* border-radius: 100px; */
+    font-size: 2rem !important;
+    
+  }
+  
+  #output {
+    height: 100px;
+  }
